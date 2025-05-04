@@ -43,19 +43,6 @@ This analysis was conducted to investigate whether projected flooding poses a fi
 These scripts mirror the logic of the Queens scripts but use the Brooklyn dataset and filenames.
 
 
-## Visualizations
-
-
-![alt text](figures/Queens_Value_by_Impact.png)
-
-
- Assessed Value by Business Ownership and Flood Risk in Queens
-
-![alt text](figures/value_at_risk_queens.png)
-
-
-  Share of Total Assessed Value at Risk (Queens)
-
 
 
 ## Tools Used
