@@ -37,14 +37,7 @@ This analysis was conducted to investigate whether projected flooding poses a fi
    - Total assessed value
 7. Exports the result to CSV/Excel for visualization.
 
-### `scripts/queens_plots.py`
-1. Loads the summary file from the direct risk script.
-2. **Bar Chart**: Total value split by business status and flood exposure.
-   ![Insert value_by_impact_queens.png here](figures/your_filename.png)
-3. **Bar Chart**: Total value *at risk* by school district.
-   ![Insert risk_value_by_queens_district.png here](figures/your_filename.png)
-4. **Pie Chart**: Share of total assessed value at risk.
-   ![Insert value_at_risk_queens.png here](figures/your_filename.png)
+
 
 ### `scripts/brooklyn_direct_risk.py` and `brooklyn_plots.py`
 These scripts mirror the logic of the Queens scripts but use the Brooklyn dataset and filenames.
